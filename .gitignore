@@ -1,0 +1,5 @@
+price_model.joblib
+*.csv
+*.zip
+__pycache__/
+.ipynb_checkpoints/
